@@ -29,8 +29,8 @@ All the auditing and the code I used to verify these visual metrics are document
 
 Based on the analysis of the modeled data, the following operational insights were extracted:
 * **Global Performance:** The operation maintains a revenue volume of **$67.407K**, supported by a solid base of **584 active clients**.
-* **Strategic Inventory:** The **'Animation'** and **'Sports'** categories consistently outperform the rest of the catalog in rental counts and revenue. It is advisable to prioritize inventory acquisition in these genres.
-* **Operational Equity:** The sales distribution between the Woodridge (49.38%) and Lethbridge (50.62%) branches is perfectly balanced, demonstrating successful standardization in the commercial processes of both locations.
+* **Strategic Inventory:** The 'Animation' and 'Sports' categories consistently outperform the rest of the catalog in rental counts, making them strong candidates for inventory prioritization.
+* **Operational Equity:** Rental volume is nearly evenly split between the Woodridge (49.38%) and Lethbridge (50.62%) branches, indicating a balanced operational workload between both locations.
 
 ---
 
