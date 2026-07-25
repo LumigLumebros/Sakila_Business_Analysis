@@ -38,7 +38,7 @@ Based on the analysis of the modeled data, the following operational insights we
 
 The project is supported by a robust relational infrastructure, optimized to facilitate cross-filtering and efficiency in DAX measures:
 
-1. **Original Database:** Deployment scripts and the native Entity-Relationship diagram are included within the `[database/](./database/)` folder to allow environment replication.
+1. **Original Database:** Deployment scripts and the native Entity-Relationship diagram are included within the `[Database/](./Database/)` folder to allow environment replication.
 2. **Analytical Model:** A structured model was implemented in Power BI, ensuring clean relationships between transaction tables and catalogs.
 
 ![Relationship Model](https://github.com/LumigLumebros/Analisis-de-Negocios-Sakila/blob/main/Assets/Relationship_model.png)
