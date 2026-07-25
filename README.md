@@ -6,7 +6,7 @@ I developed this project with the purpose of putting into practice the technical
 
 ## 🎯 Business Questions Addressed
 
-The dashboard centralizes multiple data sources to provide immediate answers to the following strategic questions:
+The dashboard directly answers the following strategic questions:
 * What has been the company's evolution over time?
 * Which movie categories lead the demand and ensure the highest return on investment?
 * Is there an equitable distribution of sales and operational workload between the branches?
